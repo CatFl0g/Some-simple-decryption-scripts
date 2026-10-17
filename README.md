@@ -1,4 +1,3 @@
-# Some simple decryption scripts
 # 这是小白作者自己写的一些用来打CTF的解密脚本，暂时还只有两个
 
 # 密码学工具集
