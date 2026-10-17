@@ -65,4 +65,4 @@
 ---
 ## 使用方法
 ```bash
-python 脚本文件名.py****
+python 脚本文件名.py
